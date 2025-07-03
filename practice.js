@@ -1,0 +1,1 @@
+console.log("Its a new day How are you doing stranger");
