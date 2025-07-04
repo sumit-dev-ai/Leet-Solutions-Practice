@@ -18,6 +18,6 @@ var isPalindrome = function(str) {
     
 };
 const a=isPalindrome("Madam");
-const b=isPalindrome("Madam1");
+const b=isPalindrome("Madam1"); 
 console.log(   a)
 console.log(   b)

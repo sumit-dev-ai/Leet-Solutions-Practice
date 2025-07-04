@@ -1,1 +1,7 @@
-console.log("Its a new day How are you doing stranger");
+function findOccurence(haystack, needle) {
+
+    
+};
+
+const res=strStr("dadbutsad","sad");
+console.log(res);
